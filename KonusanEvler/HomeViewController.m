@@ -32,6 +32,7 @@
         [self.view.layer insertSublayer:gradient atIndex:0];
     }
     return self;
+    ///////helloooo
 }
 
 - (void)viewDidLoad
